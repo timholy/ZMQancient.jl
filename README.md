@@ -1,3 +1,11 @@
+# NOTE: archival version
+
+This is an old version of ZMQ.jl that existed at the time [julia-matlab](https://github.com/timholy/julia-matlab) was created. People have expressed an interest in getting that working again, so this is posted for their benefit.
+
+If you're interested in a "modern" interface to ZeroMQ, see the official [ZMQ package](https://github.com/JuliaLang/ZMQ.jl).
+
+What follows is the old README.
+
 # A Julia interface to ZeroMQ
 
 **ZMQ.jl** is a [Julia] (http://julialang.org) interface to [ZeroMQ, The Intelligent Transport Layer] (http://zeromq.org). 
